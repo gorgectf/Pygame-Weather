@@ -1,4 +1,3 @@
-# mason.mmp.work@gmail.com
 
 import pygame, weather
 from datetime import datetime
