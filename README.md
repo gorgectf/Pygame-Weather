@@ -1,7 +1,6 @@
 # Pygame Weather app
 
 This app will fetch the weather based on your location and get the weather for the next week.  
-This is my first real Pygame app, do not expect exceptional structure or code.
 
 ### Note
 Licenses images and fonts were used for development which are not attached in this version.  
